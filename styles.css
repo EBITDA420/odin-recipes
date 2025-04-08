@@ -6,8 +6,24 @@ body {
 
 .title {
   text-align: center;
+  margin: 40px;
 }
 
 a {
   color: lightblue;
+}
+
+.list {
+  font-size: 20px;
+}
+
+.order {
+  list-style-position: inside;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.link {
+  margin: 20px;
 }
