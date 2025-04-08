@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(66, 66, 66);
+  color: aliceblue;
+}
+
+.title {
+  text-align: center;
+}
+
+a {
+  color: lightblue;
+}
